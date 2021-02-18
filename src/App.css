@@ -1,0 +1,72 @@
+
+body {
+  font-family: "Open Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+.banner-2 {
+  overflow: hidden;
+  padding-top: 50px;
+}
+.bg-blue {
+  background: #470FA8 !important;
+}
+.position-relative {
+  position: relative!important;
+}
+
+.overlay-shape {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+.banner-2 .banner-content-2 {
+  padding: 180px 0px 120px 0px;
+}
+.text-yello {
+  color: #ffc429;
+}
+
+.text-uppercase {
+  text-transform: uppercase!important;
+}
+.h5, h5 {
+  font-size: 1.25rem;
+}
+.banner-2 .banner-content-2 h2 {
+  font-size: 60px;
+  line-height: 70px;
+}
+
+.banner-2 p {
+  color: rgba(255, 255, 255, 0.7);
+  padding-right: 55px;
+  font-size: 20px;
+}
+
+.nav-link {
+  font-size: 20px;
+}
+
+
+
+.service-2 {
+  background: #ffe5e5;
+}
+.service-2 .service-item {
+  padding: 80px 0px;
+}
+h4, .h4 {
+  font-size: 24px;
+  line-height: 30px;
+}
