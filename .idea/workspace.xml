@@ -62,6 +62,7 @@
       <change beforePath="$PROJECT_DIR$/../database/seeds/DatabaseSeeder.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/home/branding.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/home/branding.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../phpunit.xml" beforeDir="false" />
@@ -1228,7 +1229,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613580566231</updated>
       <workItem from="1613580568063" duration="844000" />
-      <workItem from="1613665651463" duration="5855000" />
+      <workItem from="1613665651463" duration="6712000" />
     </task>
     <servers />
   </component>
