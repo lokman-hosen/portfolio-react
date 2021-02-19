@@ -2,6 +2,7 @@ import react from 'react'
 import Banar from './banar';
 import Branding from './branding';
 import MyWork from "./myWork";
+import LatestArticle from "./latestArticle";
 
 function Home() {
     return (
@@ -9,6 +10,7 @@ function Home() {
             <Banar />
             <Branding />
             <MyWork />
+            <LatestArticle />
         </div>
         
     );

@@ -79,7 +79,7 @@ h4, .h4 {
 }
 
 .text-color {
-  color: #f57479;
+  color: #f57479 !important;
 }
 
 /*footer*/
@@ -113,4 +113,40 @@ h4, .h4 {
 .list-unstyled {
   padding-left: 0;
   list-style: none;
+}
+
+
+
+.overflow-hidden {
+  overflow: hidden !important;
+}
+.blog-category {
+  position: absolute;
+  content: "";
+  background: #fff;
+  display: inline-block;
+  padding: 1px 10px;
+  z-index: 1;
+  left: 7%;
+  top: 9%;
+  text-transform: capitalize;
+  color: #000;
+}
+.latest-blog h4 {
+  font-weight: 600;
+}
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+  font-family: "Poppins", sans-serif;
+  color: #222530;
+  font-weight: 500;
+}
+
+a {
+  color: #0d6efd;
+  text-decoration: none;
+}
+a:hover {
+  color: #0d6efd;
+  text-decoration: none;
 }
